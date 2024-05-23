@@ -53,6 +53,9 @@ a {
 
 p a {
     display: inline;
+    text-decoration: underline;
+    text-decoration-color: var(--green-light);
+    color: var(--green-light);
 }
 
 li {
